@@ -1,0 +1,1 @@
+((((SCHPO,(SACCE,((GAETR,NEUCR)Sordariomycetidae,(ASPNI,BIPOR))leotiomyceta)saccharomyceta)Ascomycota,((PUCGR,(CRYNE,COPCI)Agaricomycotina),(WALME,USTMA))Basidiomycota)Dikarya,ESCCO)cellular_organisms);
