@@ -1,0 +1,158 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 practivate.adobe.com 
+127.0.0.1 activate.adobe.com
+
+127.0.0.1 www.smashbros.com
+127.0.0.1 sololeveling.net
+127.0.0.1 mangarockteam.com
+127.0.0.1 onmanga.com
+127.0.0.1 www.readlightnovel.org
+127.0.0.1 www.mangastream.cc
+127.0.0.1 kisslightnovels.info
+127.0.0.1 am1320.com
+127.0.0.1 onlinenovelreader.org
+127.0.0.1 spoilerguy.com
+127.0.0.1 mangachapters.com
+127.0.0.1 www.quora.com
+127.0.0.1 news.otakuart.com
+127.0.0.1 digistatement.com
+127.0.0.1 www.epicdope.com
+127.0.0.1 digitalheatfx.com
+127.0.0.1 www.digitalfx.tv
+127.0.0.1 www.digitaldomain.com
+127.0.0.1 www.gamestop.com
+127.0.0.1 www.complex.com
+127.0.0.1 www.npr.org
+127.0.0.1 bookriot.com
+127.0.0.1 www.scholastic.com
+127.0.0.1 arstechnica.com
+127.0.0.1 www.ircbpodcast.com
+127.0.0.1 www.readbrightly.com
+127.0.0.1 www.stitcher.com
+127.0.0.1 www.howtolovecomics.com
+127.0.0.1 www.ourkids.net
+127.0.0.1 www.shutterstock.com
+127.0.0.1 www.twitch.tv
+127.0.0.1 doctorstonemanga.com
+127.0.0.1 mangakakalotfull.xyz
+127.0.0.1 black-clover.net
+127.0.0.1 manga-blackclover.com
+127.0.0.1 9gag.com
+127.0.0.1 primevideo.com
+127.0.0.1 www.webtoons.com
+127.0.0.1 www.viz.com
+127.0.0.1 www.mangapanda.com
+127.0.0.1 twitter.com
+127.0.0.1 www.quora.com
+127.0.0.1 www.crunchyroll.com
+127.0.0.1 mangarock.com
+127.0.0.1 www.manga.club
+127.0.0.1 mangatoon.mobi
+127.0.0.1 mangatx.com
+127.0.0.1 www.gocomics.com
+127.0.0.1 www.silvesnail.com
+127.0.0.1 www.dccomics.com
+127.0.0.1 www.comicskingdom.com
+127.0.0.1 www.hoopladigital.com
+127.0.0.1 readcomiconline.to
+127.0.0.1 readcomicsonline.ru
+127.0.0.1 www.comicextra.com
+127.0.0.1 read-comic.com
+127.0.0.1 comicpunch.net
+127.0.0.1 comiconlinefree.com
+127.0.0.1 readcomiconline.org
+127.0.0.1 www.makeuseof.com
+127.0.0.1 xoxocomics.com
+127.0.0.1 getcomics.info
+127.0.0.1 www.quora.com
+127.0.0.1 www.gocomics.com
+127.0.0.1 www.marvel.com
+127.0.0.1 www.newsrama.com
+127.0.0.1 www.netflix.com
+127.0.0.1 www.putlockers.cr
+127.0.0.1 www.last.fm
+127.0.0.1 putlocker123.me
+127.0.0.1 www.dailymotion.com
+127.0.0.1 www.justwatch.com
+127.0.0.1 www.facebook.com
+127.0.0.1 www.instagram.com
+127.0.0.1 www.cnn.com
+127.0.0.1 techcrunch.com
+127.0.0.1 read-onepiece.com
+127.0.0.1 news.otakuart.com
+127.0.0.1 onepiecehype.blogspot.com
+127.0.0.1 strawhatmanga.com
+127.0.0.1 mangaburn.blogspot.com
+127.0.0.1 mangaplus.shueisha.co.jp
+127.0.0.1 ww1.readonepiecemanga.com
+127.0.0.1 mangakakalot.com
+127.0.0.1 ww2.readonepiece.xyz
+127.0.0.1 spoilerguy.com
+127.0.0.1 superheros-home.com
+127.0.0.1 www.webnovel.com
+127.0.0.1 www.ferdlg.com
+127.0.0.1 www.mtlnovel.com
+127.0.0.1 www.inquisitr.com
+127.0.0.1 www.imdb.com
+127.0.0.1 comicbook.com
+127.0.0.1 www.cbr.com
+127.0.0.1 www.comicbookmovie.com
+127.0.0.1 narutoshippuden-manga.com
+127.0.0.1 naruto-shipuden.com
+127.0.0.1 naruto-mangaonline.com
+127.0.0.1 bookriot.com
+127.0.0.1 www.goodreads.com
+127.0.0.1 ferdlg.com
+127.0.0.1 mangaplus.shueisha.co.jp
+127.0.0.1 www.fanfiction.net
+127.0.0.1 www.commonsensemedia.org
+127.0.0.1 ww2.onepunchmano.com
+127.0.0.1 ldkmanga.com
+127.0.0.1 ww3.readopm.com
+127.0.0.1 w8.read1punchman.com
+127.0.0.1 strawhatmanga.com
+127.0.0.1 w11.mangafreak.net
+127.0.0.1 www.pinterest.com
+127.0.0.1 spoilerguy.com
+127.0.0.1 news.otakuart.com
+127.0.0.1 www.pinterest.ru
+127.0.0.1 www.pinterest.co.uk
+127.0.0.1 www.4chan.org
+127.0.0.1 w11.mangafreak.net
+127.0.0.1 dr-ston.com
+127.0.0.1 doctorstonemanga.com
+127.0.0.1 mangakakalotfull.xyz
+127.0.0.1 spoilerguy.com
+127.0.0.1 365manga.com
+127.0.0.1 mangarock.es
+
+
+
+
+
+
